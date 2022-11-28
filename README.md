@@ -1,5 +1,6 @@
 # Labproject-00
-frist proj
+My Project
 
-Panuwat Thammabut
-653450099-8
+Name : Panuwat Thammabut
+ID : 653450099-8
+Email : panuwat.tha@kkumail.com
